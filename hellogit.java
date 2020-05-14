@@ -1,5 +1,6 @@
 class hellogit{
          public static void mian(String[] args){
-	System.out.println("hello word");
+	int i=1;
+	System.out.println(i);
   }
 }
